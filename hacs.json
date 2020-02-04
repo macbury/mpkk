@@ -1,0 +1,6 @@
+{
+  "name": "MPKK",
+  "domains": ["sensor"],
+  "render_readme": true,
+  "country": ["EU", "PL"]
+}
