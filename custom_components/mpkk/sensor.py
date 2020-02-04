@@ -108,7 +108,7 @@ class PublicTransportSensor(Entity):
           'direction': direction,
           'relativeTime': departure['actualRelativeTime'],
           'time': {
-            'date': time
+            'date': time.isoformat()
           }
         })
 
